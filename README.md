@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Desenvolvimento na Hasar Brasil
 - 💞️ I’m looking to collaborate on Desenvolvimento na Hasar Brasil
 - 📫 How to reach me: Hasar Brasil
+- 
 
 <!---
 GuilhermeHasarBrasil/GuilhermeHasarBrasil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
