@@ -5,13 +5,13 @@ Formação / Degree
 Engenheiro de Controle e Automação - UFSC
 Desenvolvedor Web Full Stack - Driven Education
 
-</>Skills Desenvolvimento Web:  HTML, CSS, Javascript, React, Node.js, Nextjs, Express, Microsserviços;
+Desenvolvimento Web: HTML, CSS, Javascript, React, Node.js, Nextjs, Express, Microsserviços;
 
 Banco de Dados (databases): PostgreSQL, MySQL, MongoDB, Firebase;
 
-Skills Desenvolvimento Mobile: React Native, Android, Firebase, Usabilidade offline, Apps offline-first, Integrações RFID e NFC;
+Desenvolvimento Mobile: React Native, Android, Firebase, Usabilidade offline, Apps offline-first, Integrações RFID e NFC;
 
-Outras Skills de Desenvolvimento: Integrações de aplicações com Impressoras Zebra, Leitores RFID, coletores de dados Barcode/QRCODE;
+Skills complementares: Integrações entre sistemas ERP/SAP/Sistemas legados, desenvolvimento de integrações de aplicações com Impressoras Zebra, Leitores RFID, coletores de dados Barcode/QRCODE;
 
 Ferramentas de Qualidade de Desenvolvimento: ORMs, TDD, Jest, SuperTest, Cypress, TDD, Docker, Gestão de VPS, CICD & Pipelines;
 
