@@ -25,10 +25,14 @@ E-mail: guimatiola@gmail.com
 Telefone: +55 47 996993721
 
 Experiências
-🏆 Desde fev/2023: Desenvolvendo sistemas Android e Web com integração de tecnologia RFID, coletores, impressoras e leitores de código de barras na Hasar Brasil.
+🏆 Desde fev/2023: Desenvolvendo sistemas Android e Web integrando sistemas legados (ERP/SAP/Sistemas internos) a sistemas com tecnologia RFID, coletores, impressoras e leitores de código de barras na Hasar Brasil/H1TECH.
+
 🏆 Técnico e suporte de TI no DESAFIO ALL 4 FOOD DE STARTUPS. Atuação: plataforma de transmissão, atualização e manutenção de site, apoio à programação e mentoria.
+
 🏆 Técnico de suporte em TI na Prónegocio da AMPE. Atuação: suporte a vendedores e compradores, resolução de falhas no sistema ou rede.
+
 🏆 Terceiro colocado no Hackaton HackaPower 2021 promovido pela SEBRAE, Empreenda+, Criatec e INOVARS. Solução para desafios de energia, ecologia e tecnologia verde no agronegócio.
+
 🏆 Bolsista em monitoria na disciplina Microeconomia por 4 semestres. Atuação: apoio a estudantes, desenvolvimento e correção de avaliações.
 <!---
 GuilhermeHasarBrasil/GuilhermeHasarBrasil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
